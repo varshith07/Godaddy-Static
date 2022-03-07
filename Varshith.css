@@ -1,0 +1,103 @@
+body{
+	background-color:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:3;
+}
+
+.box-1{
+	background-color:#fff;
+	color:#000;
+
+	border-bottom:10px red solid;
+	border-top:10px yellow solid;
+	border-left:10px green solid;
+	border-right:10px blue solid;
+}
+
+.container{
+	width:50%;
+	margin:auto;
+	text-align: center;
+}
+
+.categories{
+	font-size: 16px;
+	text-align: start;
+}
+
+
+.categories h3{
+	font-size: 25px;
+	text-align: start;
+}
+
+
+.intro {
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+}
+
+.intro p{
+	font-size: 25px;
+	text-align: start;
+}
+
+.edu p{
+	font-size: 25px;
+	text-align: start;
+}
+
+.edu{
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+}
+
+.edu thead{
+  background-color:darkred;
+  color:white;
+}
+
+.edu td{
+  background-color:#000;
+  color:white;
+  text-align: start;
+}
+
+.skills p{
+	font-size: 25px;
+	text-align: start;
+}
+
+.skills{
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+}
+
+.goals p{
+	font-size: 25px;
+	text-align: start;
+}
+
+
+.goals{
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+}
+
+.thanks p{
+	text-align: center;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.thanks{
+	text-align: center;
+	font-size: 25px;
+}
+
+.footer p{
+	text-align: center;
+	font-size: 18px;
+}
